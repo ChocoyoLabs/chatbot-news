@@ -1,0 +1,22 @@
+{
+  "name": "chatbot-news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChocoyoLabs/chatbot-news.git"
+  },
+  "author": "Paulo McNally <paulo.mcnally@chocoyolabs.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChocoyoLabs/chatbot-news/issues"
+  },
+  "homepage": "https://github.com/ChocoyoLabs/chatbot-news#readme",
+  "devDependencies": {
+    "sequelize": "3.21.0"
+  }
+}
