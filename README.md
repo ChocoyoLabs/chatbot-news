@@ -25,7 +25,7 @@ On chatbot project create file ./commands/news.js
     var news = require('chatbot-news');
 
     // exports
-    exports.source = news.source;
+    exports.source = news.sources;
 
 ## To remove this module
 
