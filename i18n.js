@@ -4,6 +4,9 @@ module.exports = {
       text: 'Estos son los sitios web que conozco para leer noticias:',
     },
     {
+      text: '',
+    },
+    {
       text: '<b>Confidencial</b>',
     },
     {
@@ -49,10 +52,7 @@ module.exports = {
       text: '',
     },
     {
-      text: 'También podes descargar la aplicación <b>ChacuaTool</b> para leer todas las noticias en un solo lugar.',
-    },
-    {
-      text: 'https://play.google.com/store/apps/details?id=com.dak42.chacuatool',
+      text: 'También podes descargar la aplicación <b>ChacuaTool</b> para leer todas las noticias en un solo lugar. Descargala desde este enlace: https://play.google.com/store/apps/details?id=com.dak42.chacuatool',
     },
   ],
 };
